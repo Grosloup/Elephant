@@ -7,5 +7,8 @@
             "name": "Nicolas Canfrere",
             "email": "nico.canfrere@gmail.com"
         }
-    ]
+    ],
+    "require" :  {
+        "pimple/pimple": "1.1.*@dev"
+    }
 }
