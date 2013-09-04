@@ -1,0 +1,11 @@
+{
+    "name": "elephant/Elephant",
+    "description": "php framework",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Nicolas Canfrere",
+            "email": "nico.canfrere@gmail.com"
+        }
+    ]
+}
